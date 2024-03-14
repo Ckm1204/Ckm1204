@@ -30,7 +30,8 @@ Puedes encontrarme en las siguientes plataformas:
 - [Instagram](https://www.instagram.com/camilotello_12/)
 
 ### Contacto
-Si tienes alguna pregunta, comentario o sugerencia, puedes enviarme un correo electrónico a camilo.tello@example.com. Estaré encantado de escucharte. 😊.
+Si tienes alguna pregunta, comentario o sugerencia, puedes enviarme un correo electrónico a camilotello04@gmail.com 
+ Estaré encantado de escucharte. 😊.
 
 <!--
 **Ckm1204/Ckm1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
