@@ -25,8 +25,8 @@ Aquí hay algunos de los proyectos en los que he trabajado o estoy trabajando ac
 ### Redes sociales
 Puedes encontrarme en las siguientes plataformas:
 
-- [LinkedIn](https://twitter.com/CamiloT02000288)
-- [Twitter](https://twitter.com/camilo_tello)
+- [LinkedIn](https://www.linkedin.com/in/camilo-tello-001978206/)
+- [Twitter](https://twitter.com/CamiloT02000288)
 - [Instagram](https://www.instagram.com/camilotello_12/)
 
 ### Contacto
