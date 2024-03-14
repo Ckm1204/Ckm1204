@@ -3,7 +3,7 @@
 # Hola, soy Camilo Tello 👋
 ## Estudiante de ingeniería de software en la Universidad Cooperativa de Colombia
 
-![Una imagen de Camilo Tello]((https://scontent.cdninstagram.com/v/t39.30808-6/385310308_18371715019067068_4590028512827404405_n.jpg?stp=dst-jpg_e15_p480x480&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDE5MjAuc2RyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_ohc=JjaqDP2H23gAX_OwB-P&edm=APs17CUAAAAA&ccb=7-5&ig_cache_key=MzIwNTE4NjY0NDU0MTU2OTk5Ng%3D%3D.2-ccb7-5&oh=00_AfDbNtqofo9TGI1xrd9mShLbtuwEFMGWsFoYxIJG71lJSA&oe=65F4FF40&_nc_sid=10d13b))
+![Una imagen de Camilo Tello](img=src/yo.jpg)
 
 ### Sobre mí
 Soy Camilo Tello, tengo 19 años y vivo en San Juan de Pasto, Nariño, Colombia. Estoy estudiando ingeniería de software en la Universidad Cooperativa de Colombia y me apasiona el desarrollo web, la inteligencia artificial y el aprendizaje automático. Mi sueño es crear soluciones innovadoras que mejoren la vida de las personas y el medio ambiente.
