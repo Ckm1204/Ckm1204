@@ -6,7 +6,7 @@
 ![Una imagen de Camilo Tello](https://raw.githubusercontent.com/Ckm1204/Ckm1204/main/yo.jpg)
 
 ### Sobre mí
-Soy Camilo Tello, tengo 19 años y vivo en San Juan de Pasto, Nariño, Colombia. Estoy estudiando ingeniería de software en la Universidad Cooperativa de Colombia y me apasiona el desarrollo web, la inteligencia artificial y el aprendizaje automático. Mi sueño es crear soluciones innovadoras que mejoren la vida de las personas y el medio ambiente.
+Soy Camilo Tello, tengo 20 años y vivo en San Juan de Pasto, Nariño, Colombia. Estoy estudiando ingeniería de software en la Universidad Cooperativa de Colombia y me apasiona el desarrollo web, la inteligencia artificial y el aprendizaje automático. Mi sueño es crear soluciones innovadoras que mejoren la vida de las personas y el medio ambiente.
 
 ### Habilidades
 - Lenguajes: Python, Java,  HTML, CSS, JavaScript
